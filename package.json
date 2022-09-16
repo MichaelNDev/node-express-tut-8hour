@@ -1,0 +1,12 @@
+{
+  "name": "nodesjs-expressjs-full-course",
+  "version": "1.0.0",
+  "description": "Node.js Express.js Full Course - 8 Hour freecodecamp",
+  "main": "1-intro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
